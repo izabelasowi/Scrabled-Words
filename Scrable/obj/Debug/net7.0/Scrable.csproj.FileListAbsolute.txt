@@ -1,0 +1,15 @@
+/Users/izabelasowinska/Projects/Scrable/Scrable/bin/Debug/net7.0/Scrable
+/Users/izabelasowinska/Projects/Scrable/Scrable/bin/Debug/net7.0/Scrable.deps.json
+/Users/izabelasowinska/Projects/Scrable/Scrable/bin/Debug/net7.0/Scrable.runtimeconfig.json
+/Users/izabelasowinska/Projects/Scrable/Scrable/bin/Debug/net7.0/Scrable.dll
+/Users/izabelasowinska/Projects/Scrable/Scrable/bin/Debug/net7.0/Scrable.pdb
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.csproj.AssemblyReference.cache
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.AssemblyInfoInputs.cache
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.AssemblyInfo.cs
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.csproj.CoreCompileInputs.cache
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.dll
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/refint/Scrable.dll
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.pdb
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/Scrable.genruntimeconfig.cache
+/Users/izabelasowinska/Projects/Scrable/Scrable/obj/Debug/net7.0/ref/Scrable.dll
